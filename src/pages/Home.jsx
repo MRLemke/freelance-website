@@ -33,7 +33,7 @@ export default function Home() {
                         </div>
                         <div className="md:w-1/2 flex justify-center">
                             <img
-                                src="/src/assets/mockup2.png"
+                                src="/mockup2.png"
                                 alt="Laptop with example webpage"
                                 className="max-w-full rounded shadow-lg"
                             />
